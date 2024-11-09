@@ -1,6 +1,6 @@
-# Xin-anjiang-Model | ÐÂ°²½­Ä£ÐÍ
+# Xin-anjiang-Model | æ–°å®‰æ±Ÿæ¨¡åž‹
 
-[English Version](./README.md) | [ÖÐÎÄ°æ](./README_CN.md)
+[English Version](./README.md) | [ä¸­æ–‡ç‰ˆ](./README_CN.md)
 
 This is a hydrological model used primarily for river basin hydrology and flood forecasting. Developed in China, it simulates rainfall-runoff processes in humid and semi-humid regions.
 
